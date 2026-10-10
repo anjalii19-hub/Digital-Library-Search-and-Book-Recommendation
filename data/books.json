@@ -1,0 +1,98 @@
+[
+  {
+    "id": "B1",
+    "title": "Python Basics",
+    "author": "John Smith",
+    "category": "Programming",
+    "keywords": ["python", "coding", "beginner"],
+    "reading_time": 30
+  },
+  {
+    "id": "B2",
+    "title": "Data Structures and Algorithms",
+    "author": "Mark Allen",
+    "category": "Programming",
+    "keywords": ["python", "algorithms", "data structures"],
+    "reading_time": 45
+  },
+  {
+    "id": "B3",
+    "title": "Artificial Intelligence",
+    "author": "Stuart Russell",
+    "category": "Technology",
+    "keywords": ["AI", "machine learning", "algorithms"],
+    "reading_time": 60
+  },
+  {
+    "id": "B4",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "keywords": ["journey", "inspiration", "fiction"],
+    "reading_time": 35
+  },
+  {
+    "id": "B5",
+    "title": "Wings of Fire",
+    "author": "A. P. J. Abdul Kalam",
+    "category": "Biography",
+    "keywords": ["science", "inspiration", "life story"],
+    "reading_time": 40
+  },
+  {
+    "id": "B6",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Programming",
+    "keywords": ["coding", "software", "programming"],
+    "reading_time": 50
+  },
+  {
+    "id": "B7",
+    "title": "Machine Learning for Beginners",
+    "author": "A. Kapoor",
+    "category": "Technology",
+    "keywords": ["AI", "machine learning", "beginner"],
+    "reading_time": 55
+  },
+  {
+    "id": "B8",
+    "title": "The Hidden Life of Trees",
+    "author": "Peter Wohlleben",
+    "category": "Nature",
+    "keywords": ["nature", "environment", "science"],
+    "reading_time": 25
+  },
+  {
+    "id": "B9",
+    "title": "Introduction to Databases",
+    "author": "R. Sharma",
+    "category": "Technology",
+    "keywords": ["database", "SQL", "data"],
+    "reading_time": 35
+  },
+  {
+    "id": "B10",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-help",
+    "keywords": ["habits", "growth", "inspiration"],
+    "reading_time": 30
+  },
+  {
+    "id": "B11",
+    "title": "Operating Systems Concepts",
+    "author": "A. Silberschatz",
+    "category": "Computer Science",
+    "keywords": ["operating systems", "process", "threads"],
+    "reading_time": 50
+  },
+  {
+    "id": "B12",
+    "title": "Computer Networks",
+    "author": "Andrew Tanenbaum",
+    "category": "Computer Science",
+    "keywords": ["network", "protocol", "internet"],
+    "reading_time": 45
+  }
+]
